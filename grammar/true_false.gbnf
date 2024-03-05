@@ -1,0 +1,6 @@
+root ::= ws ANSWER ws
+
+ANSWER ::= boolean | yesno
+yesno ::= "yes" | "Yes" | "YES" | "no" | "No" | "NO"
+ws ::= [ \t\n]*
+boolean ::= "true" | "false" | "True" | "False" | "TRUE" | "FALSE"

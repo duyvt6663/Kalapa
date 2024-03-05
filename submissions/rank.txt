@@ -1,0 +1,9 @@
+submission 11: 0.6902 0.5657 
+submission 09: 0.6869 0.5556
+submission 17: 0.4711 0.4343 // this one is the binary submission
+submission 18: binary classifcation by Vietcuna
+submission 19: multi-query by baseline 81.5% val acc
+submission 20: trained vietcuna-3B, 4 context, 81.5% val acc
+submission 21: trained vietcuna-3B, 3 context, ??? val acc
+submission 22: trained vietcuna-3B, 3 context, 87.1% val acc
+submission 25: hybrid vietcuna-3B + baseline, 3,4 context, 89% val acc
